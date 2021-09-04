@@ -1,0 +1,6 @@
+module Pods_RomaExample {
+  umbrella header "Pods-RomaExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
